@@ -75,7 +75,7 @@ sections:
   component: Features
 - type: contact
   template: contact
-  title: Get in touch
+  title: Contact Information
   text: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris,
     eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum,
     urna est aliquam sem, sit amet imperdiet est velit quis lorem.

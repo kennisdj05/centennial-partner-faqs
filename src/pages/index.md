@@ -2,9 +2,6 @@
 title: Home
 sidebar:
   entries:
-  - title: Residential
-    url: "#one"
-    is_primary: false
   - title: Welcome
     url: "#intro"
     is_primary: true
@@ -14,7 +11,10 @@ sidebar:
   - title: What we do
     url: "#two"
     is_primary: false
-  - title: Get in touch
+  - title: Residential
+    url: "#one"
+    is_primary: false
+  - title: Contact Us
     url: "#three"
     is_primary: false
 sections:

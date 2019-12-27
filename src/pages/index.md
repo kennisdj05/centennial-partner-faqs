@@ -8,7 +8,7 @@ sidebar:
   - title: Mission, Vision, Values
     url: "#one"
     is_primary: false
-  - title: What we do
+  - title: Servicing
     url: "#two"
     is_primary: false
   - title: Residential

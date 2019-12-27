@@ -2,6 +2,9 @@
 title: Home
 sidebar:
   entries:
+  - title: Commercial
+    url: "#one"
+    is_primary: false
   - title: Welcome
     url: "#intro"
     is_primary: true
